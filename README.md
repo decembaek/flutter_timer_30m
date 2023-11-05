@@ -2,15 +2,6 @@
 
 A new Flutter project.
 
-## Getting Started
+Timer 앱 제작
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![스크린샷 2023-11-05 오후 7 21 05](https://github.com/decembaek/flutter_timer_30m/assets/112678034/7ed40961-524d-46a3-9722-c7e21d6a3d6e)
